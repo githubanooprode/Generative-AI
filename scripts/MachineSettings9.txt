@@ -1,0 +1,15 @@
+#13,14,16,17,18, and 32 (julesz, fechner, gregory, marr, koehler, and Kanisza)
+#are in use by InPainting June12 and 16
+#12 Johansson is in use by ThomasK
+#20 (Block?) is the scanner machine
+#21 (Mach) is Phil's machine
+#23 fits is Mikhail's machine
+#15 (Hering) is the experimental PC.
+#51,53,55,56,57 is LapPC1, LabPC3, LabPC4, LabPC5, LabPC2
+
+hosts="reichardt julesz fechner gregory hering marr koehler stevens kanisza tjan Wundt Wheatstone Likert Osgood"  
+
+local_result_dir=./results_2017_July_16
+remote_base_dir=/localhome/$user/Desktop/InPainting2017_July_16
+toBeSaved_dir=~/Desktop/Inpainting2017/NewAmoebas/
+max_processes=2
